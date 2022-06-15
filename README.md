@@ -10,3 +10,5 @@ Die Dokumentation befindet sich im [docs](docs) Ordner. Hier ein Link zu jeder F
 - [Was bringt ein Index bei vielen Datensätzen?](docs/Indexes_bei_vielen_datensätzen.md)
 - [Was bringt ein Index bei vielen Tabellen bzw. Beziehungen zwischen den Tabellen?](docs/Indexes_in_komplexen_datenbanken.md)
 
+Test:
+{% include_relative docs/Was_ist_ein_Index.md %}
