@@ -1,5 +1,7 @@
 # M153-Indexes
-Repository about indexes for the M153
+
+In diesem Projekt geht es darum ein kleines Wissen über Index in SQL aufzubauen. Dazu recherchieren wir im Internet, um
+die folgenden Fragen zu beantworten.
 
 ## Inhaltsverzeichniss
 Die Dokumentation befindet sich im [docs](docs) Ordner. Hier ein Link zu jeder Frage.
