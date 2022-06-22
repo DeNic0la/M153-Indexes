@@ -1,7 +1,7 @@
 # Wie wird ein Index erstellt, gelöscht usw.?
 [Zurück](../README.md)
 <br/><br/>
-Syntax und Beispiele wie ein normaler Index erstellt, gelöscht und verwendet wird.
+### Syntax und Beispiele wie ein normaler Index erstellt, gelöscht und verwendet wird.
 
 ## Index erstellen
 Normaler index auf einer Tabelle. Duplikate sind erlaubt.
