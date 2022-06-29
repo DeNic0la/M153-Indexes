@@ -14,3 +14,10 @@ Unique Index, keine Duplikate möglich.
 CREATE UNIQUE INDEX name_des_indexes
 ON table_name (col1, col2, col_n, ...);
 ```
+
+Löschen:
+```sql
+ALTER TABLE table_name
+DROP INDEX index_name;
+```
+
